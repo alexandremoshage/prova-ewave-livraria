@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{800AC904-BDAB-4837-9018-DC6EE864DF2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{EE800B87-68F9-409D-BADF-361E3EF78839}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{42AFB6A7-9E33-43A2-8372-38D018ACB2CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1.Data", "4.1.Data", "{1A0A1723-3F93-4389-8A31-4B80F82C4312}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Livraria.Infra.Data", "src\Livraria.Infra.Data\Livraria.Infra.Data.csproj", "{F5ADC685-BBA3-4ED4-8442-84FAA12705A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2.CrossCutting", "4.2.CrossCutting", "{CC5C69E1-CEA7-4EE8-AACA-03B8C94F3246}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Livraria.Infra.CrossCutting.IoC", "src\Livraria.Infra.CrossCutting.IoC\Livraria.Infra.CrossCutting.IoC.csproj", "{15858518-3C59-4C66-BEC7-58C302160292}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Livraria.Domain", "src\Livraria.Domain\Livraria.Domain.csproj", "{3255C56D-B0FF-46B1-A066-A2D63F4AEEA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Teste", "4 - Teste", "{CC678667-3DF0-4C66-9C5A-EA49762CE2C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Livraria.Presentation", "src\Livraria.Presentation\Livraria.Presentation.csproj", "{F52062AE-4CD0-491F-96DE-4F3C9852562A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{3BCFC41D-1B0C-46DC-8406-A59CEAF3EE1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{790EE181-5BAC-4AA9-9342-AA4CAE208E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria.test", "src\L\Livraria.test\Livraria.test.csproj", "{B01AD17F-A81E-48E5-AA6A-790308A9A6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5ADC685-BBA3-4ED4-8442-84FAA12705A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5ADC685-BBA3-4ED4-8442-84FAA12705A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5ADC685-BBA3-4ED4-8442-84FAA12705A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5ADC685-BBA3-4ED4-8442-84FAA12705A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15858518-3C59-4C66-BEC7-58C302160292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15858518-3C59-4C66-BEC7-58C302160292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15858518-3C59-4C66-BEC7-58C302160292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15858518-3C59-4C66-BEC7-58C302160292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3255C56D-B0FF-46B1-A066-A2D63F4AEEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3255C56D-B0FF-46B1-A066-A2D63F4AEEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3255C56D-B0FF-46B1-A066-A2D63F4AEEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3255C56D-B0FF-46B1-A066-A2D63F4AEEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52062AE-4CD0-491F-96DE-4F3C9852562A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52062AE-4CD0-491F-96DE-4F3C9852562A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52062AE-4CD0-491F-96DE-4F3C9852562A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52062AE-4CD0-491F-96DE-4F3C9852562A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790EE181-5BAC-4AA9-9342-AA4CAE208E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790EE181-5BAC-4AA9-9342-AA4CAE208E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790EE181-5BAC-4AA9-9342-AA4CAE208E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790EE181-5BAC-4AA9-9342-AA4CAE208E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01AD17F-A81E-48E5-AA6A-790308A9A6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01AD17F-A81E-48E5-AA6A-790308A9A6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01AD17F-A81E-48E5-AA6A-790308A9A6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01AD17F-A81E-48E5-AA6A-790308A9A6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A0A1723-3F93-4389-8A31-4B80F82C4312} = {42AFB6A7-9E33-43A2-8372-38D018ACB2CE}
+		{F5ADC685-BBA3-4ED4-8442-84FAA12705A5} = {1A0A1723-3F93-4389-8A31-4B80F82C4312}
+		{CC5C69E1-CEA7-4EE8-AACA-03B8C94F3246} = {42AFB6A7-9E33-43A2-8372-38D018ACB2CE}
+		{15858518-3C59-4C66-BEC7-58C302160292} = {CC5C69E1-CEA7-4EE8-AACA-03B8C94F3246}
+		{3255C56D-B0FF-46B1-A066-A2D63F4AEEA9} = {EE800B87-68F9-409D-BADF-361E3EF78839}
+		{F52062AE-4CD0-491F-96DE-4F3C9852562A} = {800AC904-BDAB-4837-9018-DC6EE864DF2E}
+		{790EE181-5BAC-4AA9-9342-AA4CAE208E5E} = {3BCFC41D-1B0C-46DC-8406-A59CEAF3EE1F}
+		{B01AD17F-A81E-48E5-AA6A-790308A9A6A0} = {CC678667-3DF0-4C66-9C5A-EA49762CE2C9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676DB246-69C6-4AAB-BAFE-4C7FD6597418}
+	EndGlobalSection
+EndGlobal

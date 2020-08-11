@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Presentation\\Livraria.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\42670\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\42670\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Domain\\Livraria.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Domain\\Livraria.Domain.csproj",
+        "projectName": "Livraria.Domain",
+        "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Domain\\Livraria.Domain.csproj",
+        "packagesPath": "C:\\Users\\42670\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\42670\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.CrossCutting.IoC\\Livraria.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.CrossCutting.IoC\\Livraria.Infra.CrossCutting.IoC.csproj",
+        "projectName": "Livraria.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.CrossCutting.IoC\\Livraria.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\42670\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\42670\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj",
+        "projectName": "Livraria.Infra.Data",
+        "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\42670\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\42670\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Domain\\Livraria.Domain.csproj": {
+                "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Domain\\Livraria.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Presentation\\Livraria.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Presentation\\Livraria.Presentation.csproj",
+        "projectName": "Livraria.Presentation",
+        "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Presentation\\Livraria.Presentation.csproj",
+        "packagesPath": "C:\\Users\\42670\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\42670\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\Application\\Application.csproj"
+              },
+              "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.CrossCutting.IoC\\Livraria.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.CrossCutting.IoC\\Livraria.Infra.CrossCutting.IoC.csproj"
+              },
+              "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\42670\\Downloads\\livraria-ewave-master\\livraria-ewave-master\\src\\Livraria.Infra.Data\\Livraria.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

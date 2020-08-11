@@ -1,0 +1,16 @@
+C:\Livraria\Livraria\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.csproj.CoreCompileInputs.cache
+C:\Livraria\Livraria\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.AssemblyInfoInputs.cache
+C:\Livraria\Livraria\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.AssemblyInfo.cs
+C:\Livraria\Livraria\src\Livraria.Domain\bin\Debug\netcoreapp3.1\Livraria.Domain.deps.json
+C:\Livraria\Livraria\src\Livraria.Domain\bin\Debug\netcoreapp3.1\Livraria.Domain.dll
+C:\Livraria\Livraria\src\Livraria.Domain\bin\Debug\netcoreapp3.1\Livraria.Domain.pdb
+C:\Livraria\Livraria\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.dll
+C:\Livraria\Livraria\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.pdb
+C:\Users\42670\Downloads\livraria-ewave-master\livraria-ewave-master\src\Livraria.Domain\bin\Debug\netcoreapp3.1\Livraria.Domain.deps.json
+C:\Users\42670\Downloads\livraria-ewave-master\livraria-ewave-master\src\Livraria.Domain\bin\Debug\netcoreapp3.1\Livraria.Domain.dll
+C:\Users\42670\Downloads\livraria-ewave-master\livraria-ewave-master\src\Livraria.Domain\bin\Debug\netcoreapp3.1\Livraria.Domain.pdb
+C:\Users\42670\Downloads\livraria-ewave-master\livraria-ewave-master\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.AssemblyInfoInputs.cache
+C:\Users\42670\Downloads\livraria-ewave-master\livraria-ewave-master\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.AssemblyInfo.cs
+C:\Users\42670\Downloads\livraria-ewave-master\livraria-ewave-master\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\42670\Downloads\livraria-ewave-master\livraria-ewave-master\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.dll
+C:\Users\42670\Downloads\livraria-ewave-master\livraria-ewave-master\src\Livraria.Domain\obj\Debug\netcoreapp3.1\Livraria.Domain.pdb
